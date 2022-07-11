@@ -1,6 +1,3 @@
-# Front-end-homework-challenge
-Front end homework challenge
-
 ## Problem Statement
 Construct a re-usable datagrid component in React supported bv a light-weiaht server usina node.js
 
